@@ -1,0 +1,4 @@
+valgrind-out.txt
+.vscode
+*.out
+*.o
